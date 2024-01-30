@@ -1,8 +1,8 @@
 
 # OOP 2024 Portfolio
-## Your Name
-### Your Group
-### Your Tutor
+## Jamal Barkaji
+### CS4A
+### Kumar Satish
 
 
 
@@ -11,7 +11,7 @@
 **committed by 5th February**\
 1 Hello World        -- to do\
 2 Test               -- to do\
-3 Personal Details   -- to do\
+3 Personal Details   -- completed\
 4 Diamonds           -- to do\
 5 Questions          -- to do
 
