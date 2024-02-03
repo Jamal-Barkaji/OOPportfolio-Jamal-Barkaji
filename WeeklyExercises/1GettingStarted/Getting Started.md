@@ -88,7 +88,21 @@ java: reached end of file while parsing
 If you complete the exercises above, answer the following questions.
  
 a. What is the latest version of the Java SDK that is available?\
+Java SE 21.0.2
+
 b. What is the difference between Java SE and Java ME?\
+Java SE = Standard Edition
+Java ME = Java Micro Edition. 
+Provides APIs for applications targeting embedded and mobile devices.
+Java ME includes some Java SE functionalities.
+
 c. Which operating system is Java available for?\
+Windows, Mac OS X, and Linux
+
 d. What is the most popular IDE available for Java apart from Eclipse?\
+IntelliJ IDEA
+
 e. What is the main() function for in a Java program?
+The entry point for executing a Java program. 
+It can contain code to execute or call other methods,
+and can be placed in any class that's part of a program.
