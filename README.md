@@ -17,7 +17,7 @@
 
 **2 Data and Expressions**\
 **committed by 19th February**\
-1 Table of Student Grades  -- to do\
+1 Table of Student Grades  -- completed\
 2 Computing Averages       -- to do\
 3 Miles to Kilometers      -- to do\
 4 Square Calculation       -- to do\
