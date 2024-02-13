@@ -17,7 +17,7 @@ public class Salary
     public static void main (String[] args)
     {
         double currentSalary;
-        double raise;
+        double raise = 0;
         double newSalary;
         String rating;
 
@@ -42,7 +42,7 @@ public class Salary
                 raise = (currentSalary * 0.015);
                 break;
             default:
-                throw new java.lang.IllegalStateException("Unexpected value: " + rating);
+                System.out.println("Error. Wrong input");
         }
 
 
