@@ -25,7 +25,7 @@
 
 **3 Selection and Iteration**\
 **committed by 26th February**\
-1 Computing a Pay Increase   -- to do\
+1 Computing a Pay Increase   -- completed\
 2 Rock, Paper, Scissors      -- to do\
 3 String Reverser            -- to do\
 4 Punctuation Marks          -- to do
