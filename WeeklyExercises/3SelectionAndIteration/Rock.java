@@ -40,7 +40,7 @@ public class Rock {
                 System.out.println("Error: Invalid input.");
             }
 
-            //Generate computer's play (0,1,2)
+
         computerInt = generator.nextInt(3);
 
         switch (computerInt) {
@@ -58,22 +58,23 @@ public class Rock {
 
         if (personPlay.equals(computerPlay))
             System.out.println("It's a tie!");
-        else if (personPlay.equals("R"))
+        else if (personPlay.equals("R")) {
             if (computerPlay.equals("S"))
                 System.out.println("Rock crushes scissors.  You win!!");
             else if (computerPlay.equals("P"))
                 System.out.println("Paper covers rock. You lose.");
-
-        else if (personPlay.equals("P"))
+        }
+        else if (personPlay.equals("P")) {
             if (computerPlay.equals("R"))
                 System.out.println("Paper covers rock. You win!!");
             else if (computerPlay.equals("S"))
-                System.out.println("Scissors cut paper. You lose.");
-
-        else if (personPlay.equals("S"))
+                    System.out.println("Scissors cut paper. You lose.");
+        }
+        else if (personPlay.equals("S")) {
             if (computerPlay.equals("R"))
                 System.out.println("Rock crushes scissors. You lose");
             else if (computerPlay.equals("P"))
-                System.out.println("Scissors cut paper. You win!!");
+                    System.out.println("Scissors cut paper. You win!!");
+        }
     }
 }
